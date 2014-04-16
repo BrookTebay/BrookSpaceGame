@@ -1,0 +1,26 @@
+﻿Build started 16/04/2014 14:24:23.
+     1>Project "C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\SpaceGame\SpaceGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\Debug\SpaceGame.exe" /INCREMENTAL /NOLOGO d3d9.lib d3dx9.lib DXUTOpt.lib winmm.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\Debug\SpaceGame.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\Debug\SpaceGame.lib" /MACHINE:X86 Debug\GameResources.res
+         Debug\Bullets.obj
+         Debug\cBalloon.obj
+         Debug\cD3DManager.obj
+         Debug\cD3DXFont.obj
+         Debug\cD3DXSpriteMgr.obj
+         Debug\cD3DXTexture.obj
+         Debug\cExplosion.obj
+         Debug\cSprite.obj
+         Debug\cXAudio.obj
+         Debug\Enemy.obj
+         Debug\EnemySpawner.obj
+         Debug\main.obj
+         Debug\Player.obj
+         SpaceGame.vcxproj -> C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\Debug\SpaceGame.exe
+     1>Done Building Project "C:\Users\Brook\Documents\GitHub\BrookSpaceGame\SpaceGame\SpaceGame\SpaceGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
